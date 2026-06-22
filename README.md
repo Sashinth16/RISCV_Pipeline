@@ -20,8 +20,8 @@ Built as a flagship project for CDC internship placements.
 ### Stage 2 — CPU Core Pieces
 - [x] alu
 - [x] regfile
-- [ ] pc
-- [ ] imem
+- [x] pc
+- [x] imem
 - [ ] imm_gen
 - [ ] control_unit
 - [ ] dmem
