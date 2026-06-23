@@ -22,9 +22,9 @@ Built as a flagship project for CDC internship placements.
 - [x] regfile
 - [x] pc
 - [x] imem
-- [ ] imm_gen
-- [ ] control_unit
-- [ ] dmem
+- [x] imm_gen
+- [x] control_unit
+- [x] dmem
 
 ### Stage 3 — Single Cycle CPU
 - [ ] cpu_singlecycle
