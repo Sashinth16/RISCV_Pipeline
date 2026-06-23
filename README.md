@@ -27,7 +27,7 @@ Built as a flagship project for CDC internship placements.
 - [x] dmem
 
 ### Stage 3 — Single Cycle CPU
-- [ ] cpu_singlecycle
+- [x] cpu_singlecycle
 
 ### Stage 4 — Pipeline
 - [ ] if_id_reg
